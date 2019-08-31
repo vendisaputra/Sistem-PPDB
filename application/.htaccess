@@ -1,0 +1,8 @@
+RewriteEngine on
+RewriteRule ^(.*)$ https://sdm16ska.sch.id/$1 [R=301,L]
+<IfModule authz_core_module>
+    Require all denied
+</IfModule>
+<IfModule !authz_core_module>
+    Deny from all
+</IfModule>

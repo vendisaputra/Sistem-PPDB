@@ -1,0 +1,2 @@
+[10-Oct-2018 04:23:51 UTC] PHP Fatal error:  Cannot redeclare Content::viewekstrakulikuler() in /home/u5316969/public_html/application/modules/_lod/controllers/Content.php on line 91
+[01-Nov-2018 08:28:03 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/u5316969/public_html/application/third_party/dompdf/include/block_frame_reflower.cls.php on line 73
